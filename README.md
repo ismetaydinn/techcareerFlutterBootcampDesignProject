@@ -1,4 +1,3 @@
-# techcareer_tasarim_odev
 
 YapıKredi bankası mobil uygulama ana ekran tasarımı.
 
