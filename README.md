@@ -1,6 +1,11 @@
 # techcareer_tasarim_odev
 
-A new Flutter project.
+YapıKredi bankası mobil uygulama ana ekran tasarımı.
+
+![zyro-image](https://user-images.githubusercontent.com/83541512/186422101-2f62e540-abe1-4307-afca-7f620d2ed999.png)
+
+
+
 
 ## Getting Started
 
